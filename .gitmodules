@@ -1,0 +1,3 @@
+[submodule "submodulrep"]
+	path = submodulrep
+	url = ../submodulrep/
