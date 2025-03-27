@@ -1,4 +1,4 @@
 [submodule "submodulrep"]
 	path = submodulrep
-	url = ../submodulrep/
+	url = https://github.com/makssemka/submodulrep.git
         branch = master
